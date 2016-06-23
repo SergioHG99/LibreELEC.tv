@@ -17,12 +17,12 @@
 ################################################################################
 
 PKG_NAME="tvheadend42"
-PKG_VERSION="5374573"
-PKG_VERSION_NUMBER="4.1.1945"
+PKG_VERSION="0bc30b9"
+PKG_VERSION_NUMBER="4.1.2134"
 PKG_REV="102"
 PKG_ARCH="any"
 PKG_LICENSE="GPL"
-PKG_SITE="http://www.tvheadend.org"
+PKG_SITE="https://github.com/tvheadend/tvheadend.git"
 PKG_URL="https://github.com/tvheadend/tvheadend/archive/$PKG_VERSION.tar.gz"
 PKG_SOURCE_DIR="tvheadend-${PKG_VERSION}*"
 PKG_DEPENDS_TARGET="toolchain curl libdvbcsa libiconv libressl Python:host yasm"
